@@ -16,4 +16,4 @@ npm install
 node server.js
 ```
 
-Now go to [http://localhost:8888](link)
+Now go to [http://localhost:8888](http://localhost:8888)
